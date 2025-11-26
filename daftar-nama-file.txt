@@ -1,0 +1,15 @@
+project1/Marketing/Documents/samples.pdf
+project1/Marketing/Documents/sample1.pdf
+project1/Marketing/Documents/sample4.pdf
+project1/Marketing/Documents/sample2.pdf
+project1/Marketing/Documents/sample3.pdf
+project1/HR/Documents/sample5.pdf
+project1/HR/Documents/sample1.pdf
+project1/HR/Documents/sample4.pdf
+project1/HR/Documents/sample2.pdf
+project1/HR/Documents/sample3.pdf
+project1/Engineering/Documents/sample5.pdf
+project1/Engineering/Documents/sample1.pdf
+project1/Engineering/Documents/sample4.pdf
+project1/Engineering/Documents/sample2.pdf
+project1/Engineering/Documents/sample3.pdf
